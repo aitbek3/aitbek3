@@ -55,7 +55,6 @@
 <p align="left">
     <a href="https://www.python.org/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp</a>
     <a href="https://www.djangoproject.com/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp</a>
-    <a href="https://www.postgresql.org/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/postgresql.png"/>&nbsp</a>
     <a href="https://git-scm.com/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp</a>
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp</a>
     <a href="https://www.docker.com/" target="_blank">&nbsp<img width="45px" src="https://img.icons8.com/color/48/000000/docker.png"/>&nbsp</a>
