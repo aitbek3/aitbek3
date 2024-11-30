@@ -11,13 +11,37 @@
   <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Python%2FDjango+Developer;Passionate+about+Clean+Code;Always+Learning+New+Things"/>
 </a>
 
-## 📊 My Github Stats
+### 🌟 Profile Overview
+
+👋 Hi there! I'm Aitbek Askerov, a passionate Python/Django developer specializing in creating robust web applications. My work spans various projects, including:
+
+- 📚 **University Management Systems**: Handling faculties, students, courses, and schedules.
+- 🚗 **Automotive Platforms**: Managing car categories, models, and user interactions like betting.
+- 💻 **Product Advertising**: Building platforms for showcasing products like laptops.
+- 🔐 **Authentication**: Implementing secure, JWT-based access control.
+
+### 🛠️ Skills
+
+- **Backend Development**: Django, Django REST Framework (DRF)
+- **Authentication**: JWT (rest_framework_simplejwt)
+- **Databases**: PostgreSQL, SQLite
+- **Version Control**: Git, GitHub
+- **Programming Languages**: Python
+
+### 🚀 What I Do
+
+- Develop complex models and serializers for dynamic business logic.
+- Create custom APIs with secure authentication systems.
+- Implement admin interfaces for efficient data management.
+- Continuously enhance my skills and explore new technologies.
+
+✨ I’m passionate about solving complex problems with clean, maintainable code and always looking for collaboration opportunities!
+
+## 📊 My GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/aitbek3"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aitbek3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-</a>
-<a href="https://github.com/aitbek3"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitbek3&langs_count=8&theme=react&hide_border=true&bg_color=0D1117">
-</a>
+<a href="https://github.com/aitbek3"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aitbek3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
+<a href="https://github.com/aitbek3"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitbek3&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"></a>
 </div>
 
 <p align="center">
