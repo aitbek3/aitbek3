@@ -63,10 +63,9 @@
 ## 🔖 My Contacts
 
 <div class="contacts" align="center">
-  <a href="https://wa.me/1234567890"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/@aitbek_dev"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/YourInstagram"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
+  <a href="https://wa.me/+996704066559"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/aitbek_dev"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+<!--   <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a> -->
 </div>
 
 ---
